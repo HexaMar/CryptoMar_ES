@@ -36,13 +36,13 @@ La fuerza bruta de claves privadas requiere una enorme cantidad de tiempo y pote
 ### 🪟 Para Windows
 
 1. Desactiva el antivirus.
-2. Abre la última versión: [CryptoMar Releases](https://github.com/HexaMar/CryptoMar_EN/releases/tag/v1.1.0)
+2. Abre la última versión: [CryptoMar Releases](https://github.com/HexaMar/HexaMar/releases/tag/v1.1.0)
 3. Descarga el archivo `CryptoMarInstaller.exe`
 4. Sigue las instrucciones del instalador.
 
 ### 🍎 Para macOS
 
-1. Abre la última versión: [CryptoMar Releases](https://github.com/HexaMar/CryptoMar_EN/releases/tag/v1.1.0)
+1. Abre la última versión: [CryptoMar Releases](https://github.com/HexaMar/HexaMar/releases/tag/v1.1.0)
 2. Descarga el archivo `CryptoMarAPP.zip`
 3. Abre el archivo `CryptoMarAPP.zip` desde la carpeta Descargas.
 4. Abre la terminal, escribe lo siguiente y presiona Enter:
