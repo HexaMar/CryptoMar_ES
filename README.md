@@ -39,6 +39,7 @@ La fuerza bruta de claves privadas requiere una enorme cantidad de tiempo y pote
 2. Abre la última versión: [CryptoMar Releases](https://github.com/HexaMar/HexaMar/releases/tag/v1.1.0)
 3. Descarga el archivo `CryptoMarInstaller.exe`
 4. Sigue las instrucciones del instalador.
+5. Actualización (24.05.2025): Se ha optimizado el uso de memoria. Ahora se utiliza un filtro de Bloom para una búsqueda rápida y una mayor eficiencia de memoria, combinado con la verificación de saldo para evitar falsos positivos. Para generar el archivo del filtro, ejecute el programa como administrador.
 
 ### 🍎 Para macOS
 
